@@ -7,7 +7,7 @@ body{
     padding: 0;
     margin: 0;
     min-width: 320px;
-    background: url('/assets/1.gif') no-repeat center top;
+    background: url('1.gif') no-repeat center top;
     background-color: #0C0D21;
     background-size: cover;
     color: #6064C0;
